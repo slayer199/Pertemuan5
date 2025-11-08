@@ -14,7 +14,6 @@ const db = mysql
     database: "media",
   })
   .promise();
-gft;
 app.use(cors());
 app.use(express.json());
 
